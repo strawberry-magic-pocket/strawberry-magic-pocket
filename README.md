@@ -1,4 +1,4 @@
-### Hi there! I'm Jing Mu (穆靖 in Chinese). 👋
+### Hi there! I'm Jing Mu. 👋
 
 I am a PhD student at Shanghai Institute of Technical Physics(SITP), Chinese Academy of Science.
 
