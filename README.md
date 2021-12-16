@@ -15,6 +15,8 @@ I am a PhD student at Shanghai Institute of Technical Physics(SITP), Chinese Aca
 - ✍️ **Skill**
   * Language: C++/Python/Matlab
   * Engineering: GUI development by QT
+- 📒 **Blog**
+  * [CSDN](https://blog.csdn.net/qq_34554039?spm=1000.2115.3001.5343)
 - 📫 **How to reach me**:
   * Email: 634501923@163.com
 
