@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there! I'm Jing Mu (穆靖 in Chinese). 👋
 
-<!--
-**strawberry-magic-pocket/strawberry-magic-pocket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a PhD student at Shanghai Institute of Technical Physics(SITP), Chinese Academy of Science.
 
-Here are some ideas to get you started:
+- 🧐 **My research interests**:
+  * Infrared small target detectionn
+  * Salient object detection
+  * Image segmentation
+- 👩‍🎓 **Eduction**:
+  * 2014 ~ 2018, majored in IoT(internet of things), at Shandong University.
+  * 2018 ~ 2019, 
+- 📫 **How to reach me**:
+  * Email: 634501923@163.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
