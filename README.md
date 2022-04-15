@@ -1,6 +1,6 @@
 ### Hi there! I'm Jing Mu. 👋
 
-I am a PhD student at Shanghai Institute of Technical Physics(SITP), Chinese Academy of Science.
+I am a PhD student at Shanghai Institute of Technical Physics(SITP), Chinese Academy of Sciences.
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=strawberry-magic-pocket)
 
