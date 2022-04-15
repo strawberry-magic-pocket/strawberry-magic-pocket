@@ -10,8 +10,8 @@ I am a PhD student at Shanghai Institute of Technical Physics(SITP), Chinese Aca
   * Image segmentation
 - 👩‍🎓 **Education**:
   * 2014 ~ 2018 , majored in Internet of Things(IoT) Engineering at Shandong University.
-  * 2018 ~ 2019 , majored in Signal and Information Processing at University of Sceince and Technology of China🇨🇳.
-  * 2019 ~ today, a PhD student, at Shanghai Institute of Technical Physics(SITP), Chinese Academy of Science🇨🇳.
+  * 2018 ~ 2019 , majored in Signal and Information Processing at University of Sceince and Technology of China.
+  * 2019 ~ today, a PhD student, at Shanghai Institute of Technical Physics(SITP), Chinese Academy of Sciences.
 - ✍️ **Skills**
   * Language: C++/Python/Matlab
   * Engineering: GUI development by QT
