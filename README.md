@@ -1,6 +1,6 @@
 ### Hi there! I'm Jing Mu. 👋
 
-I am a PhD student at Shanghai Institute of Technical Physics(SITP), Chinese Academy of Sciences.
+I am a PhD student graduated from Shanghai Institute of Technical Physics(SITP), Chinese Academy of Sciences.
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=strawberry-magic-pocket)
 
@@ -11,7 +11,7 @@ I am a PhD student at Shanghai Institute of Technical Physics(SITP), Chinese Aca
 - 👩‍🎓 **Education**:
   * 2014 ~ 2018 , majored in Internet of Things(IoT) Engineering at Shandong University.
   * 2018 ~ 2019 , majored in Signal and Information Processing at University of Sceince and Technology of China.
-  * 2019 ~ today, a PhD student, at Shanghai Institute of Technical Physics(SITP), Chinese Academy of Sciences.
+  * 2019 ~ 2023, a PhD student, at Shanghai Institute of Technical Physics(SITP), Chinese Academy of Sciences.
 - ✍️ **Skills**
   * Language: C++/Python/Matlab
   * Engineering: GUI development by QT
